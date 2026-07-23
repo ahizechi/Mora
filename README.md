@@ -4,7 +4,7 @@
 
 ## Download
 
-### [⬇ Download the latest installer →](https://github.com/49ghoul/mora/releases/latest)
+### [⬇ Download the latest installer →](https://github.com/49ghoul/Mora/releases/latest)
 
 Grab **`Mora_x.y.z_x64-setup.exe`** from the latest release, run it, and launch **Mora** from the Start menu.
 
@@ -17,7 +17,3 @@ Grab **`Mora_x.y.z_x64-setup.exe`** from the latest release, run it, and launch 
 - The delay is a live replay buffer you can change on the fly — add delay to replay the last N seconds, remove it to cut back to live.
 - **Global shortcuts** to add/remove delay from anywhere, even over fullscreen games.
 - It **only shifts your delay** — scenes, alerts, chat, VODs and everything else keep working untouched.
-
----
-
-_This repository hosts the Mora installer and updates. The source is maintained privately._
