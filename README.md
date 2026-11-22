@@ -1,13 +1,14 @@
 # Mora
 
 Change your stream delay while you're live, and send one stream to every platform at once.
+Free for Windows.
 
 ![Mora's Live screen with a 30 second delay](images/live.png)
 
 ## Download
 
 **[Download Mora for Windows](https://github.com/ahizechi/Mora/releases/latest)**, then run the
-`setup.exe` installer from that page. Mora keeps itself up to date.
+`setup.exe` installer from that page. Mora is free and keeps itself up to date.
 
 Windows 10 or 11, 64-bit. If Windows shows a blue "protected your PC" box, choose
 **More info → Run anyway**.
@@ -18,11 +19,13 @@ Windows 10 or 11, 64-bit. If Windows shows a blue "protected your PC" box, choos
 - **Multistream.** Up to 8 outputs: Twitch, YouTube, TikTok, Kick or any RTMP server. If one
   drops, the others keep going.
 - **Vertical video.** Send a vertical stream to TikTok alongside your normal one, using the free
-  Aitum Vertical plugin for OBS.
+  Aitum Vertical plugin for OBS. Mora can fill in Aitum's stream settings for you.
 - **All your chat in one place.** Twitch, YouTube, TikTok and Kick chat together, in Mora, as an
   OBS dock or on screen.
 - **Automatic delay.** Give each OBS scene its own delay, or raise it during VALORANT and
   League of Legends matches.
+- **Five languages.** English, Español, Français, Deutsch and Português (Brasil), including the
+  setup guide. Pick one in **Settings**.
 - **Your stream, untouched.** Mora doesn't re-encode anything, and your stream keys are stored
   only on your PC.
 
@@ -39,7 +42,13 @@ Windows 10 or 11, 64-bit. If Windows shows a blue "protected your PC" box, choos
 3. Add where you stream in **Outputs**.
 4. Start streaming in OBS. Change the delay in Mora whenever you like.
 
-Setup lists the few OBS settings Mora needs and has a full guide if you get stuck.
+Setup checks the few OBS settings Mora needs as you stream. The full setup guide is one click
+away, in Setup and in Settings.
+
+<p>
+  <img src="images/setup.png" alt="Setup: point OBS at Mora, add outputs, start streaming" width="49%">
+  <img src="images/languages.png" alt="Mora's Live screen in Spanish" width="49%">
+</p>
 
 Good to know: adding delay replays the last few seconds to viewers, and removing it skips
 ahead to live.
