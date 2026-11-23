@@ -1,0 +1,70 @@
+Mora - Proprietary Software License
+Copyright (c) 2026 Mora. All rights reserved.
+
+Mora is proprietary software. This license governs your use of the Mora
+application and its accompanying materials (the "Software"). By installing or
+using the Software you agree to these terms. If you do not agree, do not install
+or use the Software.
+
+This is a license to USE the Software, not a sale. Mora retains all right, title,
+and interest in and to the Software, including all intellectual property rights.
+No rights are granted except those expressly stated here.
+
+1. Grant of license
+   This version of Mora is provided free of charge. Subject to your compliance
+   with this license, Mora grants you a personal, non-exclusive,
+   non-transferable, non-sublicensable, revocable license to install and run the
+   Software on devices you own or control, for your own legitimate broadcasting
+   use. No payment, subscription, license key, account, or membership of any
+   community is required to install or use it.
+
+2. Future versions
+   This license covers the version of the Software you received. Mora may offer
+   future versions on different terms. Any such change applies to those future
+   versions; it does not retroactively add a payment obligation to this one.
+
+3. Restrictions
+   You may not, and may not permit anyone else to:
+   (a) copy, publish, distribute, resell, rent, lease, lend, or host the Software
+       for others, except as expressly permitted here;
+   (b) modify, adapt, translate, or create derivative works of the Software;
+   (c) reverse engineer, decompile, or disassemble the Software, or otherwise
+       attempt to derive its source code, except to the extent this restriction
+       is prohibited by applicable law;
+   (d) remove, alter, or obscure any proprietary notices in the Software;
+   (e) circumvent, disable, or interfere with any security mechanism in the
+       Software; or
+   (f) use the Software to infringe any law or third-party right.
+
+4. Third-party components
+   The Software includes third-party open-source components that remain licensed
+   under their own terms. Those terms, and the required attributions, are set out
+   in THIRD-PARTY-NOTICES.txt. Nothing in this license limits your rights, or adds
+   to your obligations, under those third-party licenses with respect to those
+   components.
+
+5. Your content and keys
+   The Software relays your own stream using your own service credentials. Mora
+   does not claim any ownership of your stream content or your credentials, and
+   handles them as described in the product documentation.
+
+6. Termination
+   This license ends automatically if you breach it. On termination you must stop
+   using the Software. Sections 3 through 8 survive termination.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+   MORA DOES NOT WARRANT THAT THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, MORA WILL NOT BE LIABLE FOR ANY
+   INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR ANY
+   LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, ARISING OUT OF OR RELATED TO THE
+   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTHING IN THIS
+   LICENSE EXCLUDES LIABILITY THAT CANNOT BE EXCLUDED UNDER APPLICABLE LAW.
+
+9. Contact
+   For licensing questions, contact the rights holder through the Mora project's
+   official channels.

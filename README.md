@@ -12,7 +12,10 @@ stream.
 OBS  ──►  Mora (holds it for the delay you choose)  ──►  Twitch · YouTube · TikTok · Kick · RTMP
 ```
 
-![Mora's Live screen with a 30 second delay](images/live.png)
+<p>
+  <img src="images/live.png" alt="Mora's Live screen in English with a 30 second delay" width="49%">
+  <img src="images/languages.png" alt="Mora's Live screen in Spanish with a 30 second delay" width="49%">
+</p>
 
 ## Download
 
@@ -98,17 +101,13 @@ experimental.
 English, Español, Français, Deutsch and Português (Brasil). Pick one in **Settings → General**.
 It covers the window, alerts, the chat dock, the overlays and the setup guide.
 
-<p>
-  <img src="images/live.png" alt="Mora's Live screen in English" width="49%">
-  <img src="images/languages.png" alt="Mora's Live screen in Spanish" width="49%">
-</p>
 
 ### Your stream, untouched
 
 - Mora doesn't decode or re-encode anything. Your platforms get exactly the video and audio OBS
   made.
-- Your platform keys stay on your PC, in Windows Credential Manager, and OBS only ever gets
-  Mora's own local key.
+- Your platform keys are stored on your PC in Windows Credential Manager and sent only to the
+  services they connect to. OBS only ever gets Mora's own local key.
 - Mora has no account to create and nothing to pay for.
 
 ## Get started
@@ -131,13 +130,11 @@ The full setup guide opens from Setup or Settings, and also works offline.
 - Enough upload speed. Mora sends a full copy of your stream to each platform, so two platforms
   at 8000 kbps need about 17 Mbps of steady upload.
 
-## Help
+## Usage and privacy
 
-Something not working? [Open an issue](https://github.com/ahizechi/Mora/issues) and include:
-- the version from Settings → General;
-- what you did;
-- what you expected;
-- what happened.
+Mora is free proprietary software for your own broadcasting use. No account, subscription or
+licence key is required. Share the [official download link](https://github.com/ahizechi/Mora/releases/latest)
+with others; redistribution and modification of Mora itself are restricted by the [licence](LICENSE).
+Third-party components keep their own [licences and notices](THIRD-PARTY-NOTICES.txt).
 
-**Health → Now → Support diagnostics** copies a report with your keys removed. Check it for
-anything personal before you post it.
+See the [privacy notice](PRIVACY.md) for local storage, platform connections, updates and support reports.
