@@ -98,7 +98,10 @@ experimental.
 English, Español, Français, Deutsch and Português (Brasil). Pick one in **Settings → General**.
 It covers the window, alerts, the chat dock, the overlays and the setup guide.
 
-<img src="images/languages.png" alt="Mora's Live screen in Spanish" width="49%">
+<p>
+  <img src="images/live.png" alt="Mora's Live screen in English" width="49%">
+  <img src="images/languages.png" alt="Mora's Live screen in Spanish" width="49%">
+</p>
 
 ### Your stream, untouched
 
@@ -113,13 +116,7 @@ It covers the window, alerts, the chat dock, the overlays and the setup guide.
 1. **Point OBS at Mora.** Open Mora's **Setup** tab. In OBS, go to Settings → Stream, set
    Service to *Custom*, and paste the server and key that Setup shows. Streamlabs Desktop works
    the same way.
-2. **Set the encoder.** In OBS, go to Settings → Output (Advanced) and set:
-   - H.264;
-   - CBR at 8000 kbps or less;
-   - Keyframe Interval 2 s;
-   - Enhanced Broadcasting off.
-
-   Setup checks these for you once you start streaming.
+2. **Turn off Enhanced Broadcasting.** In OBS, make sure **Enhanced Broadcasting** is off.
 3. **Add where you stream.** Open **Outputs**, press **Add output**, pick the platform and paste
    its stream key. Mora tells you where each platform keeps its key.
 4. **Go live.** Start streaming in OBS, then change the delay in Mora whenever you like.
